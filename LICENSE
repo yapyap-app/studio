@@ -1,0 +1,87 @@
+yapyap — End User License Agreement (EULA)
+
+Copyright (c) 2026 Adrianus Sebastiaan Boer ("Licensor"). All rights reserved.
+
+==============================================================================
+TEMPLATE NOTICE: This is a starting-point EULA, not legal advice. Have it
+reviewed by a qualified lawyer before relying on it commercially. Adjust the
+bracketed terms and governing law to your situation.
+==============================================================================
+
+IMPORTANT — READ CAREFULLY. By downloading, installing, or using yapyap (the
+"Software"), you ("Licensee") agree to be bound by this Agreement. If you do
+not agree, do not download, install, or use the Software.
+
+1. DEFINITIONS
+   "Software" means the yapyap application binaries distributed in this
+   repository, including updates and accompanying files, but excluding the
+   Third-Party Components defined in Section 7.
+
+2. LICENSE GRANT
+   Subject to your payment of the applicable fee and continued compliance
+   with this Agreement, Licensor grants you a personal, non-exclusive,
+   non-transferable, revocable license to install and use one (1) licensed
+   copy of the Software for your own use, on the number of devices permitted
+   by your purchased license (as enforced by the product's activation limit).
+
+3. RESTRICTIONS
+   You may not, and may not permit any third party to:
+   (a) copy, redistribute, sell, rent, lease, sublicense, or otherwise make
+       the Software available to others;
+   (b) reverse engineer, decompile, or disassemble the Software, or attempt to
+       derive its source code, except to the extent this restriction is
+       prohibited by applicable law;
+   (c) modify, adapt, or create derivative works of the Software;
+   (d) remove, alter, or obscure any proprietary notices;
+   (e) circumvent, disable, or tamper with any licensing, activation, or
+       update-verification mechanism.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. Licensor retains all right, title, and
+   interest in and to the Software, including all intellectual property
+   rights. No rights are granted except as expressly set out here.
+
+5. YOUR DATA / PRIVACY
+   yapyap is a local-first application. Your recordings, transcripts, and
+   derived data remain under your control; this Agreement grants Licensor no
+   rights in your content. See the product's privacy statement at
+   https://yap-yap.app for details.
+
+6. UPDATES
+   Licensor may provide updates through the in-app updater. This Agreement
+   governs all such updates unless an update is accompanied by separate terms.
+
+7. THIRD-PARTY COMPONENTS
+   The Software includes third-party open-source components, each licensed
+   under its own terms. Those terms are reproduced in the THIRD_PARTY_LICENSES
+   file distributed with the Software and govern your use of those components.
+   Nothing in this Agreement limits your rights under those licenses.
+
+8. TERMINATION
+   This license terminates automatically if you breach it. On termination you
+   must stop using and delete all copies of the Software. Sections 3, 4, 8, 9,
+   10, and 11 survive termination.
+
+9. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU BEAR THE ENTIRE
+   RISK AS TO QUALITY AND PERFORMANCE.
+
+10. LIMITATION OF LIABILITY
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR
+    ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR
+    FOR LOSS OF DATA, PROFITS, OR REVENUE, ARISING OUT OF OR RELATED TO THE
+    SOFTWARE. LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID
+    FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+11. GOVERNING LAW
+    This Agreement is governed by the laws of the Netherlands, without regard
+    to its conflict-of-laws rules. The courts of the Netherlands have
+    exclusive jurisdiction over any dispute arising from it.
+
+12. ENTIRE AGREEMENT
+    This Agreement is the entire agreement between you and Licensor regarding
+    the Software and supersedes all prior understandings.
+
+Contact: https://yap-yap.app
