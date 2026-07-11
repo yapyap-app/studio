@@ -1,6 +1,6 @@
-# yapyap — releases
+# yapyap — studio
 
-Public distribution channel for **yapyap** desktop binaries and the
+Public distribution channel for **yapyap** studio desktop binaries and the
 auto-update manifest (`latest.json`).
 
 > **This repository contains no source code.** yapyap is a closed-source,
@@ -8,7 +8,7 @@ auto-update manifest (`latest.json`).
 > End User License Agreement in [`LICENSE`](./LICENSE).
 
 - **Product:** https://yap-yap.app
-- **Downloads:** the [Releases](https://github.com/yapyap-app/releases/releases) tab
+- **Downloads:** the [Releases](https://github.com/yapyap-app/studio/releases) tab
 - **Source:** private
 
 ## What's here
